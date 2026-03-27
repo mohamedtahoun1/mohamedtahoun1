@@ -3,7 +3,7 @@
 <h3 align="left">I'm SOC Analyst [ T1 ] focused on Defensive Security & AI Agents.</h3>
 
 <p align="left">
-  <a https://github.com/mohamedtahoun1">
+  <a herf="https://github.com/mohamedtahoun1">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
   <a href="https://jacobcolvin.com">
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+** - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
