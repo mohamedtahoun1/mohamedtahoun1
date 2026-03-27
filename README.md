@@ -3,8 +3,8 @@
 <h3 align="left">I'm SOC Analyst [ T1 ] focused on Defensive Security & AI Agents.</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://github.com/mohamedtahoun1" alt="page views" />
+  <a https://github.com/mohamedtahoun1">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
   <a href="https://jacobcolvin.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
