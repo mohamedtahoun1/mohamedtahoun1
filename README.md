@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Mohamed Alaa</h1>
+<h3 align="left">I'm SOC Analyst [ T1 ] focused on Defensive Security & AI Agents.</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
