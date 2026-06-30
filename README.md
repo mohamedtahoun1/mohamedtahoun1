@@ -33,7 +33,7 @@
 
 
 
-<<h2 align="left">🛡️ About Me:</h2>
+<h2 align="left">🛡️ About Me:</h2>
 
 - 🎯 I'm a Cybersecurity Engineer & SOC Analyst, specialized in Blue Teaming
 - 🔍 Constantly threat hunting and monitoring logs to keep environments secure
