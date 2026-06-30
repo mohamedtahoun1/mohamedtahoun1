@@ -21,15 +21,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
   <!-- Cyber & SOC Tools (Fixed Links) -->
-  <a href="https://www.wireshark.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/> </a>
-  <a href="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=appveyor&logo=splunk&logoColor=F7A300" alt="splunk" height="40"/> </a>
-  <a href="https://nmap.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="nmap" width="40" height="40"/> </a>
-  <a href="https://www.kali.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.wireshark.org/" target="_blank"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="wireshark" height="40"/> </a>
+  <a href="https://www.splunk.com/" target="_blank"> <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=F7A300" alt="splunk" height="40"/> </a>
+  <a href="https://nmap.org/" target="_blank"> <img src="https://img.shields.io/badge/-Nmap-4F5D75?style=flat-square&logo=nmap&logoColor=white" alt="nmap" height="40"/> </a>
+  <a href="https://www.kali.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=kali" alt="kali" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
 </p>
-
 
 
 
